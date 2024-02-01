@@ -3,7 +3,6 @@ colorama
 discord
 flask
 requests
-threading
 os
 random
 httpx
