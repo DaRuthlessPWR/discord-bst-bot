@@ -1,15 +1,20 @@
 {
-    "bot_token": "",
-    "bot_status": "",
-    "capmonster_key": "",
+    "bot_token": "MTE4MjE2OTM4NTM2OTA5MjEwNg.GJPzD6.dr9kswU9x_II5FaMN1w8DB33kCvCvh6ZLNacKs",
+    "bot_status": ".gg/grapes BOOSTER",
+    "capmonster_key": "0abb804ee261939fb782c3867",
     "proxyless": true,
-    "field_name_invite": "",
+    "field_name_invite": "discord.gg/grapes",
     "change_server_nick": true,
-    "server_nick": "",
-    "guildID": 0,
-    "ownerID": [],
-    "adminID": [],
-    "order_log_webhook": "",
-    "boost_log_webhook": "",
-    "boost_failed_log_webhook": ""
+    "server_nick": ".gg/grapes",
+    "guildID": "1161404153994690713",
+    "ownerID": [
+      1154494919038222448,
+        819433708473810974
+    ],
+    "adminID": [
+        642153189302599711
+    ],
+    "order_log_webhook": "https://discord.com/api/webhooks/1182176854606618654/a-1MmCHO4TFhhRmrqYnBl9XewHzGCZ3rrMBP_zecgB2q60c3-a2OVAQd-hxjdEQH4xd5",
+    "boost_log_webhook": "https://discord.com/api/webhooks/1182176854606618654/a-1MmCHO4TFhhRmrqYnBl9XewHzGCZ3rrMBP_zecgB2q60c3-a2OVAQd-hxjdEQH4xd5",
+    "boost_failed_log_webhook": "https://discord.com/api/webhooks/1182176854606618654/a-1MmCHO4TFhhRmrqYnBl9XewHzGCZ3rrMBP_zecgB2q60c3-a2OVAQd-hxjdEQH4xd5"
 }
