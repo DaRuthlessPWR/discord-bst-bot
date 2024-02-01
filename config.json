@@ -9,12 +9,12 @@
     "guildID": "1161404153994690713",
     "ownerID": [
       1154494919038222448,
-        819433708473810974
+        353533353332
     ],
     "adminID": [
-        642153189302599711
+        2284278429472
     ],
-    "order_log_webhook": "https://discord.com/api/webhooks/1182176854606618654/a-1MmCHO4TFhhRmrqYnBl9XewHzGCZ3rrMBP_zecgB2q60c3-a2OVAQd-hxjdEQH4xd5",
-    "boost_log_webhook": "https://discord.com/api/webhooks/1182176854606618654/a-1MmCHO4TFhhRmrqYnBl9XewHzGCZ3rrMBP_zecgB2q60c3-a2OVAQd-hxjdEQH4xd5",
-    "boost_failed_log_webhook": "https://discord.com/api/webhooks/1182176854606618654/a-1MmCHO4TFhhRmrqYnBl9XewHzGCZ3rrMBP_zecgB2q60c3-a2OVAQd-hxjdEQH4xd5"
+    "order_log_webhook": "https://discord.com/api/webhooks/1202561788407975936/CY7YbhBK7TbI-E2mq1hjRYz3sr65bSlqlhQiB9D3LGTvug1mBwumTetYoyECDFrZVXbN",
+    "boost_log_webhook": "https://discord.com/api/webhooks/1202561788407975936/CY7YbhBK7TbI-E2mq1hjRYz3sr65bSlqlhQiB9D3LGTvug1mBwumTetYoyECDFrZVXbN",
+    "boost_failed_log_webhook": "https://discord.com/api/webhooks/1202561788407975936/CY7YbhBK7TbI-E2mq1hjRYz3sr65bSlqlhQiB9D3LGTvug1mBwumTetYoyECDFrZVXbN"
 }
