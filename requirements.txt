@@ -5,3 +5,4 @@ flask
 requests
 httpx
 tls_client
+typing_extensions
