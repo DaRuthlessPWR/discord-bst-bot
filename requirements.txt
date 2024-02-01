@@ -7,5 +7,4 @@ httpx
 tls_client
 typing_extensions
 discord_webhook
-boosting
 sellpass
