@@ -2,3 +2,11 @@ pip
 colorama
 discord
 flask
+requests
+json
+threading
+os
+random
+httpx
+tls_client
+sys
