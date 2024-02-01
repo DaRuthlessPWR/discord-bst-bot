@@ -4,3 +4,4 @@ discord
 flask
 requests
 httpx
+tls_client
