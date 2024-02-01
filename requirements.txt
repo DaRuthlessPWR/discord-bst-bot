@@ -8,3 +8,4 @@ tls_client
 typing_extensions
 discord_webhook
 sellpass
+slash_command
